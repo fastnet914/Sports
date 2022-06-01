@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg/revision/latest/scale-to-width-down/250?cb=20190322143710" Sony Ten 1
+http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest/scale-to-width-down/250?cb=20190322144000" Sony Ten 2
+http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" Sony Ten 3
+http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Sony_Six.png/revision/latest/scale-to-width-down/200?cb=20211106103625" Sony Ten Six
+http://10.16.100.207:8082/sports/s0ny6six.m3u8
